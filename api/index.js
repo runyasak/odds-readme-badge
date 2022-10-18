@@ -16,8 +16,6 @@ export default function handler(request, response) {
             font-family: 'Helvetica', sans-serif;
           }
         </style>
-
-      <rect x="0" y="0" width="500" height="250" stroke="black" stroke-width="3px" fill="white"/>
       <text x="47%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="6rem" class="text">ODDS</text>
       <line x1="77%" x2="77%" y1="15%" y2="70%" stroke="black" stroke-width="10" class="indicator"/>
     </svg>
